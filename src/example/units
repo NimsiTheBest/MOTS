@@ -1,4 +1,4 @@
-package biotech.content;
+package example.content;
 
 import arc.Core;
 import arc.graphics.Color;
@@ -24,21 +24,10 @@ import mindustry.type.Weapon;
 public class BioUnits {
     public static UnitType
 
-            //air support
-            carrier,
+            //air offense
+            darken,
 
-            //air attack
-            scout, seer,
-
-            //ground attack
-            strider,
-
-            //core
-            watcher,
-
-            //immune
-            kaph37,
-
-            //other
-            dummy;
+            //ground defense
+            watt,
     ;
+
